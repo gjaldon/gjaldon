@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi, I'm Gjaldon.
 
-Here are some ideas to get you started:
+Seasoned dev of 10+years that has transitioned to Web3. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Web2 - full-stack web dev and devops specializing in troubleshooting production issues and optimizing databases and websites for large traffic and data.
 
-[![Gjaldon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gjaldon)](https://github.com/anuraghazra/github-readme-stats)
+Web3 - smart contract development and auditing in Solidity/EVM with a focus on DeFi.
 
+Socials:
+- [Twitter](https://twitter.com/gjaldon)
+
+[![Gjaldon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gjaldon&count_private=true&show_icons=true&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gjaldon&layout=compact&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
