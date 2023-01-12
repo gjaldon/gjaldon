@@ -6,9 +6,9 @@ Web2 - full-stack web dev and devops specializing in troubleshooting production 
 
 Web3 - smart contract development and auditing in Solidity/EVM with a focus on DeFi.
 
-Socials:
+#### Social:
 - [Twitter](https://twitter.com/gjaldon)
 
-[![Gjaldon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gjaldon&count_private=true&show_icons=true&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+[![Gjaldon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gjaldon&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gjaldon&layout=compact&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gjaldon&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
